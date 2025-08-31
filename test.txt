@@ -35033,5 +35033,4 @@ tingkat O
 Kota O
 Magelang B-LOC
 Minggu O
-1782025 O
 . O
